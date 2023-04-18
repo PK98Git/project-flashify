@@ -1,0 +1,33 @@
+[
+
+    {
+        "name" : "Men's Stay T shirt",
+        "price" : "949.99",
+        "description" : "Men's Stay New Cotton 3pk Crew Neck Short Sleeve T-Shirt",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/macbook_o2cj2k",
+            "url" : "https://res.cloudinary.com/dyj5kbgai/image/upload/v1681799159/products/white_t_ztwr74.jpg"
+        }],
+        "category" : "T-shirts",
+        "seller" : "Moose",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    },
+    {
+        "name" : "Men's Stay T shirt",
+        "price" : "949.99",
+        "description" : "Men's Stay New Cotton 3pk Crew Neck Short Sleeve T-Shirt",
+        "ratings" : 4.9,
+        "images" : [{
+            "public_id" : "products/macbook_o2cj2k",
+            "url" : "https://res.cloudinary.com/dyj5kbgai/image/upload/v1681799159/products/white_t_ztwr74.jpg"
+        }],
+        "category" : "T-shirts",
+        "seller" : "Moose",
+        "stock" : 0,
+        "numOfReviews" : 56,
+        "reviews": []
+    }
+]
